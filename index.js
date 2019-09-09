@@ -1,1 +1,1 @@
-module.exports = require('./lib/cmcic');
+module.exports = require('./lib/cmcic_v2');
